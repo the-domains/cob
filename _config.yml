@@ -1,0 +1,28 @@
+name: Cuauhtémoc Ocampo Badilla
+favicon: null
+layout_spectrum: 0.9290472660213709
+typography_spectrum: 0.7039689337834716
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7974718955811113
+  lightness: 0.3672793104778975
+  saturation: 0.5124897423665971
+  rhythmicContrast: 0.6803224391769618
+purpose: []
