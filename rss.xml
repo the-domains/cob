@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cuauhtémoc Ocampo Badilla]]></title>
         <description><![CDATA[Cuauhtémoc Ocampo Badilla]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cob/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 01:19:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 01:24:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cob/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/915d32bf-bf87-40df-b7ac-727b20d77780.JPG">]]></description>
+            <link>https://thegrid.ai/cob/a0cfde24-d096-4019-9c21-85db2c0c7167/index.html</link>
+            <guid isPermaLink="false">a0cfde24-d096-4019-9c21-85db2c0c7167</guid>
+            <pubDate>Fri, 05 Feb 2016 01:24:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Princeton University '14</p>]]></description>
-            <link>undefineddde54e79-e7f0-46c7-bd8d-aa982c6828e4/index.html</link>
+            <link>https://thegrid.ai/cob/dde54e79-e7f0-46c7-bd8d-aa982c6828e4/index.html</link>
             <guid isPermaLink="false">dde54e79-e7f0-46c7-bd8d-aa982c6828e4</guid>
             <pubDate>Fri, 05 Feb 2016 01:18:52 GMT</pubDate>
         </item>
