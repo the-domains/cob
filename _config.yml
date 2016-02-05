@@ -1,6 +1,6 @@
 name: Cuauhtémoc Ocampo Badilla
 favicon: null
-layout_spectrum: 0.9290472660213709
+layout_spectrum: 0.98987
 typography_spectrum: 0.7039689337834716
 title: Cuauhtémoc Ocampo Badilla
 cta:
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.7974718955811113
-  lightness: 0.3672793104778975
-  saturation: 0.5124897423665971
-  rhythmicContrast: 0.6803224391769618
+  brandStrength: 0.8125
+  lightness: 0.375
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
