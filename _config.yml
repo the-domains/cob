@@ -1,7 +1,7 @@
 name: Cuauhtémoc Ocampo Badilla
 favicon: null
-layout_spectrum: 0.08547
-typography_spectrum: 0.0682
+layout_spectrum: 0.25083
+typography_spectrum: 0.92879
 title: '"Entre los individuos, como entre las Naciones, el respeto al derecho ajeno es la paz" ~ B. Juárez'
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#635d13'
     - '#6684ff'
   brandStrength: 0.75
-  lightness: 0.5
-  saturation: 0.3125
-  rhythmicContrast: 0.5
+  lightness: 0.625
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
